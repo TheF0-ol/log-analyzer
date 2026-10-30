@@ -1,0 +1,6 @@
+Jan 10 08:15:01 webserver sshd[1021]: Accepted password for deploy from 10.0.0.5 port 51322 ssh2
+Jan 10 08:15:01 webserver sshd[1021]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Jan 10 09:02:44 webserver sshd[1030]: Accepted publickey for alice from 10.0.0.12 port 50111 ssh2
+Jan 10 09:02:44 webserver sshd[1030]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Jan 10 12:40:19 webserver sshd[1055]: Accepted password for deploy from 10.0.0.5 port 51400 ssh2
+Jan 10 18:10:03 webserver sshd[1099]: Disconnected from 10.0.0.12 port 50111

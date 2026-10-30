@@ -1,0 +1,7 @@
+Jan 12 05:00:00 webserver sshd[3001]: Failed password for root from 192.0.2.1 port 1234 ssh2
+
+this line is not a valid log line at all
+Jan 12 05:00:02webserver sshd[3002] missing spaces and brackets
+Jan 12 05:00:04 webserver sshd[3003]: Failed password for root from 192.0.2.1 port 1236 ssh2
+	
+Jan 12 05:00:06 webserver sshd[3004]: Failed password for root from 192.0.2.1 port 1238 ssh2

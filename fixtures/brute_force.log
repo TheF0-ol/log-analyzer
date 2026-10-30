@@ -1,0 +1,11 @@
+Jan 11 02:10:01 webserver sshd[2001]: Failed password for root from 203.0.113.9 port 44110 ssh2
+Jan 11 02:10:03 webserver sshd[2002]: Failed password for root from 203.0.113.9 port 44112 ssh2
+Jan 11 02:10:05 webserver sshd[2003]: Failed password for root from 203.0.113.9 port 44114 ssh2
+Jan 11 02:10:07 webserver sshd[2004]: Failed password for root from 203.0.113.9 port 44116 ssh2
+Jan 11 02:10:09 webserver sshd[2005]: Failed password for root from 203.0.113.9 port 44118 ssh2
+Jan 11 02:10:11 webserver sshd[2006]: Failed password for root from 203.0.113.9 port 44120 ssh2
+Jan 11 02:10:13 webserver sshd[2007]: Accepted password for root from 203.0.113.9 port 44122 ssh2
+Jan 11 02:10:13 webserver sshd[2007]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jan 11 03:00:00 webserver sshd[2050]: Failed password for invalid user admin from 198.51.100.22 port 33011 ssh2
+Jan 11 03:00:02 webserver sshd[2051]: Failed password for invalid user admin from 198.51.100.22 port 33013 ssh2
+Jan 11 03:00:04 webserver sshd[2052]: Failed password for invalid user test from 198.51.100.22 port 33015 ssh2
